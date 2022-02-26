@@ -1,0 +1,25 @@
+.group {
+    display: flex;
+    align-items: center;
+    gap: 0 25px;
+}
+.card {
+    border: 1px solid #acacac ;
+    border-radius: 5px;
+    text-align: center;
+    padding: 25px;
+}
+span {
+   margin-right: 15px;
+}
+.button {
+
+    display: block;
+    margin-top: 15px;
+    border: 1px solid  blue ;
+    padding: 15px 25px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 500;
+    cursor: pointer;
+}
